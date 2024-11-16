@@ -23,3 +23,7 @@ Unsharp Masking yöntemi ile görüntüleri keskinleştirme.
 Keskinleştirilen görüntülere Bicubic Enterpolasyon uygulanarak boyutları büyütme.
 8. Ayna Çevirme ve Döndürme
 Görseller rastgele açılarda döndürme ve yatay olarak çevrme.
+
+### Colab Notebook
+
+[Notebook](https://colab.research.google.com/drive/1Jb6VxqwyySs4h7g9w5ktWTFCiJVTBl3M?usp=drive_link)
